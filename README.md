@@ -55,14 +55,6 @@ Clean Architecture with Dio interceptors for token refresh. Preparing for Play S
 Independent University, Bangladesh · 2017 – 2023
 
 ---
-
-## 🌐 Languages
-
-- Bengali — Native
-- English — Professional working proficiency
-
----
-
 <div align="center">
   <sub>Open to freelance projects and full-time opportunities · siamshupriyo2@gmail.com</sub>
 </div>
