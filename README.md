@@ -52,7 +52,7 @@ Clean Architecture with Dio interceptors for token refresh. Preparing for Play S
 ## 🎓 Education
 
 **Bachelor of Science — Computer Science & Engineering**
-Independent University, Bangladesh · 2017 – 2023
+Independent University, Bangladesh 
 
 ---
 <div align="center">
