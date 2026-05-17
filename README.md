@@ -1,26 +1,14 @@
-<div align="center">
+# 👋 Hi, I'm AFM Siam Sazid
 
-# AFM Siam Sazid
-### Flutter Developer · Cross-Platform Mobile · Clean Architecture
+🚀 Flutter Developer | 📱 Cross-Platform Mobile (Android & iOS) | 🏗️ Clean Architecture
 
-[![Email](https://img.shields.io/badge/Email-siamshupriyo2%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:siamshupriyo2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Siam--Sazid-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/Siam-Sazid)
-[![GitLab](https://img.shields.io/badge/GitLab-siamshupriyo2-0a0a0a?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/siamshupriyo2)
-[![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-📍-0a0a0a?style=flat-square)](https://maps.app.goo.gl/Dhaka)
-
-</div>
+- I build Flutter apps that ship — from Figma concept to Play Store & App Store, end-to-end
+- 2+ years of experience in mobile development, API integration, real-time features, and live streaming
+- Currently at **SparkTech Agency** — delivering production-ready MVPs from scratch
 
 ---
 
-## About Me
-
-Flutter Developer with **2+ years of experience** building scalable, cross-platform, production-ready mobile applications for Android and iOS. I work across the full cycle — from Figma screens to Play Store & App Store deployment — covering architecture, API integration, real-time features, and live streaming.
-
-I'm currently at **SparkTech Agency**, where I deliver MVPs end-to-end. Previously at **Ghapfy Ltd**, where I shipped a social media app with real-time chat and live streaming capabilities.
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Core**
 `Flutter` `Dart` `Clean Architecture` `MVC`
@@ -45,7 +33,7 @@ I'm currently at **SparkTech Agency**, where I deliver MVPs end-to-end. Previous
 
 ---
 
-## Projects
+## 📦 Projects
 
 ### 🚀 [Ghapfy — Social Media App](https://play.google.com/store/search?q=ghapfy&c=apps)
 Android platform for showcasing talents. Features Socket.IO real-time chat, live streaming, and Hive local storage.
@@ -61,14 +49,14 @@ Clean Architecture with Dio interceptors for token refresh. Preparing for Play S
 
 ---
 
-## Education
+## 🎓 Education
 
 **Bachelor of Science — Computer Science & Engineering**
 Independent University, Bangladesh · 2017 – 2023
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - Bengali — Native
 - English — Professional working proficiency
