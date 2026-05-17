@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 AFM Siam Sazid
 Flutter Developer · Cross-Platform Mobile · Clean Architecture
