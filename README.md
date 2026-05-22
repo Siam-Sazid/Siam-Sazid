@@ -14,7 +14,7 @@
 `Flutter` `Dart` `Clean Architecture` `MVC`
 
 **State Management**
-`GetX` `Provider`
+`GetX` `Provider` `Bloc` 
 
 **Networking & Storage**
 `REST APIs` `Dio + Interceptors` `Http` `Hive`
@@ -36,19 +36,16 @@
 ## 📦 Projects
 
 ### 🚀 [Ghapfy — Social Media App](https://play.google.com/store/search?q=ghapfy&c=apps)
-Showcase Your Talents: Share your unique abilities with a supportive
-community of fellow talent enthusiasts.
-Explore New Passions: Discover a diverse range of talents and ignite your
-creative spirit.
+Android platform for showcasing talents; built with Flutter, NodeJS Socket.IO chat, live streaming, and Hive local storage.
 
 ### 🚗 Ride-Sharing App *(Pending Launch)*
-Real-time ride tracking with Socket.IO, Google Maps, Stripe payments, built with Clean Architecture & GetX.
+Real-time ride tracking; built with Flutter, NodeJS, Socket.IO, Google Maps, Stripe payments, FCM push notifications and Stripe payments.
 
 ### 🍽️ Glicen — Restaurant Booking App *(Pending Launch)*
-Restaurant discovery and booking with Socket.IO chat, FCM push notifications, Stripe payments, and Google Maps.
+Restaurant discovery and booking; built with Flutter, NodeJS, Socket.IO chat, FCM push notifications, Stripe payments, and Google Maps.
 
 ### 💳 [Reverse Mortgage Educator](https://apps.apple.com/us/app/rme-calculator/id6761672684)
-The RME Reverse Mortgage Educator app helps homeowners 55+ explore their options for accessing home equity through reverse mortgages. Get instant estimates, compare different scenarios, and request personalized proposals, all from your smartphone.
+ Homeowners aged 55+ can explore their home equity options using this platform, which is built with Flutter, Node.js, and FCM push notifications.
 
 ---
 
