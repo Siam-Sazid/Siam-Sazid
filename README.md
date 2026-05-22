@@ -45,7 +45,7 @@ Real-time ride tracking with Socket.IO, Google Maps, Stripe payments, built with
 Restaurant discovery and booking with Socket.IO chat, FCM push notifications, Stripe payments, and Google Maps.
 
 ### 💳 [Reverse Mortgage Educator](https://apps.apple.com/us/app/rme-calculator/id6761672684)
-Clean Architecture with Dio interceptors for token refresh. Preparing for Play Store & App Store launch.
+The RME Reverse Mortgage Educator app helps homeowners 55+ explore their options for accessing home equity through reverse mortgages. Get instant estimates, compare different scenarios, and request personalized proposals, all from your smartphone.
 
 ---
 
