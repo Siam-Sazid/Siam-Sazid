@@ -44,7 +44,7 @@ Real-time ride tracking with Socket.IO, Google Maps, Stripe payments, built with
 ### 🍽️ Glicen — Restaurant Booking App *(Pending Launch)*
 Restaurant discovery and booking with Socket.IO chat, FCM push notifications, Stripe payments, and Google Maps.
 
-### 💳 Reverse Mortgage Loan App *(Pending Launch)*
+### 💳 [Reverse Mortgage Educator](https://apps.apple.com/us/app/rme-calculator/id6761672684)
 Clean Architecture with Dio interceptors for token refresh. Preparing for Play Store & App Store launch.
 
 ---
