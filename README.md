@@ -36,7 +36,10 @@
 ## 📦 Projects
 
 ### 🚀 [Ghapfy — Social Media App](https://play.google.com/store/search?q=ghapfy&c=apps)
-Android platform for showcasing talents. Features Socket.IO real-time chat, live streaming, and Hive local storage.
+Showcase Your Talents: Share your unique abilities with a supportive
+community of fellow talent enthusiasts.
+Explore New Passions: Discover a diverse range of talents and ignite your
+creative spirit.
 
 ### 🚗 Ride-Sharing App *(Pending Launch)*
 Real-time ride tracking with Socket.IO, Google Maps, Stripe payments, built with Clean Architecture & GetX.
