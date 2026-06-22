@@ -4,7 +4,7 @@
 
 - I build Flutter apps that ship — from Figma concept to Play Store & App Store, end-to-end
 - 2+ years of experience in mobile development, API integration, real-time features, and live streaming
-- Currently at **SparkTech Agency** — delivering production-ready MVPs from scratch
+- Currently at **TQ Tech Limited** — delivering production-ready MVPs from scratch
 
 ---
 
