@@ -36,10 +36,10 @@
 ## 📦 Projects
 
 ### 🚀 [Ghapfy — Social Media App](https://play.google.com/store/search?q=ghapfy&c=apps)
-Android platform for showcasing talents; built with Flutter, NodeJS Socket.IO chat, live streaming, and Hive local storage.
+Android platform for showcasing talents; built with Flutter, Node.js, Socket.IO chat, live streaming, and Hive local storage.
 
 ### 🚗 [Anstop Covoiturage — Ride Sharing App](https://play.google.com/store/apps/details?id=com.anstopcovoiturage)
-Anstop is an app that connects individuals for simple, fast, and safe rides, which is built with Real-time ride tracking; built with Flutter, NodeJS, Socket.IO, Google Maps, Stripe payments, FCM push notifications, and Stripe payments.
+Anstop is an app that connects individuals for simple, fast, and safe rides, built with Real-time ride tracking using Google Maps, Flutter, Node.js, Socket.IO, Stripe payments, and FCM push notifications.
 
 ### 💳 [Reverse Mortgage Educator](https://apps.apple.com/us/app/rme-calculator/id6761672684)
  Homeowners aged 55+ can explore their home equity options using this platform, which is built with Flutter, Node.js, and FCM push notifications.
