@@ -53,8 +53,11 @@ Restaurant discovery and booking; built with Flutter, NodeJS, Socket.IO chat, FC
 
 ## 🎓 Education
 
-**Bachelor of Science — Computer Science & Engineering**
-Independent University, Bangladesh 
+**Master of Science (M.Sc.) in Computer Science & Engineering** *(Major in Data Science | Currently Pursuing)*
+United International University (UIU)
+
+**Bachelor of Science (B.Sc.) in Computer Science & Engineering**
+Independent University, Bangladesh (IUB)
 
 ---
 <div align="center">
