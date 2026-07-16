@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Core**
-`Flutter` `Dart` `Clean Architecture` `MVC`
+`Flutter` `Dart` `Clean Architecture` `MVC` `MVVM`
 
 **State Management**
 `GetX` `Provider` `Bloc` 
