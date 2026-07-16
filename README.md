@@ -29,7 +29,7 @@
 `Google Maps API`
 
 **Tools & Workflow**
-`Git` `Postman` `Swagger` `Figma` `Agile / Scrum`
+`Git` `Postman` `Swagger` `Figma` `Agile / Scrum` `Jira` `Trello` `ClickUp`
 
 ---
 
